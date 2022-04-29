@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azim-at
-- 👀 I’m interested in Back-End Engineering
+- 👀 I’m interested in Front-End Engineering
 - 🌱 I’m currently learning Javascript
 
 <!---
