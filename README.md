@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azim-at
+- 👋 Hi, I’m Azim Talikoti.
 - 👀 I’m interested in Front-End Engineering
 - 🌱 I’m currently learning Javascript
 
