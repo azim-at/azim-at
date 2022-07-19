@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azim Talikoti.
-- 👀 I’m interested in Front-End Engineering.
+- 👀 I’m interested in Front-End Developer.
 - 🌱 I’m currently learning Javascript and React.js.
 
 <!---
