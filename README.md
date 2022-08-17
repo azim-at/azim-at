@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Azim Talikoti.
-- 👀 I’m interested in Front-End Developer.
+- 👀 I’m currently working @borderlessaccess as a Frontend-Developer.
 - 🌱 I’m currently learning Javascript and React.js.
+- 
 
 <!---
 azim-at/azim-at is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
