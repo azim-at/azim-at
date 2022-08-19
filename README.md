@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azim Talikoti.
-- 👀 I’m currently working @borderlessaccess as a Frontend-Developer.
+- 👀 I’m currently working as a Frontend-Developer.
 - 🌱 I’m currently learning Javascript and React.js.
 
 <!---
