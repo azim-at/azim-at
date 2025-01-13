@@ -1,4 +1,4 @@
-Hi there, I'm Azim Talikoti 👋
+Hi there, I'm Azim Talikoti 👋 <br>
 🎯 About Me <br>
 
 🚀 A passionate Front-End Developer with over 2 years of experience in building elegant and user-friendly web interfaces using HTML, CSS, and Bootstrap.
