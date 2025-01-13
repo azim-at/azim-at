@@ -10,6 +10,6 @@ Hi there, I'm Azim Talikoti 👋 <br>
 🌐 Developing full-stack projects to deepen my understanding of backend technologies. <br>
 <br>
 ⚙️ Skills<br> 
-Front-End: HTML, CSS, Bootstrap, React.js (in progress)<br>
-Backend: Node.js, Express.js, RESTful APIs (learning)<br>
+Front-End: HTML, CSS, Bootstrap, React.js, EJS Template<br>
+Backend: Node.js, Express.js, RESTful APIs, Axios, Mongoose, SQL<br>
 Tools: Jira, Git, VS Code<br>
