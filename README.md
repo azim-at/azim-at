@@ -1,5 +1,5 @@
 Hi there, I'm Azim Talikoti 👋
-🎯 About Me
+🎯 About Me <br>
 
 🚀 A passionate Front-End Developer with over 2 years of experience in building elegant and user-friendly web interfaces using HTML, CSS, and Bootstrap.
 🌱 Currently transitioning to Full-Stack Development by mastering React.js, Node.js, Express.js, EJS, and RESTful APIs.
