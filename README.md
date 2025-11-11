@@ -48,8 +48,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Azim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azimtalikoti&show_icons=true&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azimtalikoti&layout=compact&theme=react&hide_border=true)
+![Azim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azim-at&show_icons=true&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azim-at&layout=compact&theme=react&hide_border=true)
 
 ---
 
