@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm **Azim Talikoti**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azimtalikoti&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azim%20Talikoti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azim-talikoti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=flat&logo=google-chrome)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azim%20Talikoti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azim-at/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=flat&logo=google-chrome)](https://azim-talikoti.netlify.app/)
 
 ---
 
@@ -54,9 +54,9 @@
 ---
 
 ## 🌍 Let’s Connect  
-📧 **Email:** azimtalikoti@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/azim-talikoti](https://www.linkedin.com/in/azim-talikoti)  
-🌐 **Portfolio:** [azimtalikoti.dev](#)
+📧 **Email:** azeem.talikoti@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/azim-talikoti](https://www.linkedin.com/in/azim-at/)  
+🌐 **Portfolio:** [azimtalikoti.dev](https://azim-talikoti.netlify.app/)
 
 ---
 
