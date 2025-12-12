@@ -7,20 +7,20 @@
 ---
 
 ## 🎯 About Me  
-I’m a **Front-End Developer** with **3+ years of experience**, specializing in building elegant, responsive, and user-friendly web interfaces.  
-My work revolves around **HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and React.js**.  
+I started my journey as a **Front-End Developer**, building elegant, responsive, and user-friendly web interfaces using **HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and React.js**.  
 
-Currently, I’m transitioning into a **Full-Stack Developer (MERN)** — mastering **Node.js, Express.js, MongoDB**, and **RESTful APIs** to build complete end-to-end applications.  
+Now, I’m a **Full-Stack Developer (MERN)**, expanding my skill set to **Node.js, Express.js, MongoDB, RESTful APIs**, and also working with **WordPress** to deliver complete end-to-end solutions.  
 
-I enjoy turning ideas into functional and scalable web solutions.
+I love turning ideas into **scalable, functional, and visually appealing web applications**.
 
 ---
 
 ## 💡 What I’m Focused On  
-- ⚛️ Building advanced, reusable, and performance-optimized **React.js** components  
-- 🌐 Developing hands-on **MERN stack projects**  
-- 📚 Strengthening backend knowledge with Express.js, MongoDB & API architecture  
-- 🧪 Exploring new tools & contributing to open-source  
+- ⚛️ Creating advanced, reusable, and performance-optimized **React.js components**  
+- 🌐 Building full-stack **MERN applications** from frontend to backend  
+- 🧩 Developing and customizing **WordPress websites**  
+- 🧪 Strengthening backend knowledge with **Node.js, Express.js, MongoDB & API architecture**  
+- 🚀 Exploring new tools, technologies, and contributing to open-source  
 
 ---
 
@@ -42,6 +42,7 @@ I enjoy turning ideas into functional and scalable web solutions.
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat)
 ![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -59,8 +60,8 @@ I enjoy turning ideas into functional and scalable web solutions.
 
 ## 🌍 Let’s Connect  
 📧 **Email:** azeem.talikoti@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/azim-at/  
-🌐 **Portfolio:** https://azim-talikoti.netlify.app/
+💼 **LinkedIn:** [https://www.linkedin.com/in/azim-at/](https://www.linkedin.com/in/azim-at/)  
+🌐 **Portfolio:** [https://azim-talikoti.netlify.app/](https://azim-talikoti.netlify.app/)
 
 ---
 
