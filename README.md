@@ -9,7 +9,7 @@
 ## 🎯 About Me  
 I started my journey as a **Front-End Developer**, building elegant, responsive, and user-friendly web interfaces using **HTML, CSS, JavaScript, Bootstrap, TailwindCSS, and React.js**.  
 
-Now, I’m a **Full-Stack Developer (MERN)**, expanding my skill set to **Node.js, Express.js, MongoDB, RESTful APIs**, and also working with **WordPress** to deliver complete end-to-end solutions.  
+Now, I’m a **Full-Stack Developer (MERN)**, expanding my skill set to **React.js, Next.js, Nest.js Node.js, Express.js, SQL, MongoDB, RESTful APIs**, and also working with **WordPress** to deliver complete end-to-end solutions.  
 
 I love turning ideas into **scalable, functional, and visually appealing web applications**.
 
