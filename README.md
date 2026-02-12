@@ -16,7 +16,7 @@ Today, I'm a **Full-Stack Developer at Azaya LLC, Dubai**, building end-to-end p
 
 ## 💡 What I'm Focused On
 
-- 🏗️ Building products like **BrokerStudio, BrokerHub, CashStudio**, and internal enterprise tools
+- 🏗️ Building products like **BrokerStudio, BrokerHub, VitalHops**, and internal enterprise tools
 - ⚛️ Creating advanced, reusable, and performance-optimized **React.js & Next.js** components
 - 🐍 Developing robust backends with **Python/Django** and **Node.js/Express.js**
 - 📈 Integrating **financial data APIs** and building stock market tools
