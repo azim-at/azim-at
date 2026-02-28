@@ -78,7 +78,7 @@ Today, I'm a **Full-Stack Developer at Azaya LLC, Dubai**, building end-to-end p
 
 📧 **Email:** azeem.talikoti@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/azim-at](https://www.linkedin.com/in/azim-at/)
-🌐 **Portfolio:** [dynamicat.co](https://dynamicat.co/)
+🌐 **Portfolio:** [azim.dynamicat.co](https://azim.dynamicat.co/)
 
 ---
 
