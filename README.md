@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=azimtalikoti&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azim%20Talikoti-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/azim-at/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dynamicat.co-orange?style=flat&logo=google-chrome)](https://azim.dynamicat.co/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-azim.dynamicat.co-orange?style=flat&logo=google-chrome)](https://azim.dynamicat.co/)
 
 ---
 
